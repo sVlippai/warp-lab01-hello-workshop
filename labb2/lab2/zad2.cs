@@ -1,0 +1,13 @@
+﻿//Console.WriteLine("Dodaj liczba punktow doswiadczenia: ");
+//string text = Console.ReadLine();
+//int punktyDoswiadczenia = int.Parse(text);
+//Console.WriteLine("Dodaj liczbe zlota: ");
+//string text2 = Console.ReadLine();
+//int zloto =  int.Parse(text2);
+//punktyDoswiadczenia += 25;
+//punktyDoswiadczenia *= 2 ;
+//zloto -= 8;
+//zloto += 15;
+//int trening = 1;
+//trening++;
+//Console.WriteLine($"Punkty Doswiadczenia: {punktyDoswiadczenia} \nZloto: {zloto} \nTrening: {trening} ");

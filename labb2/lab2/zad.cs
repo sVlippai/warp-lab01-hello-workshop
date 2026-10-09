@@ -1,0 +1,14 @@
+﻿//Console.WriteLine("=== EKWIPUNEK ===");
+//string imie = "Nika";
+//char symbol = '@';
+//int poziom = 6;
+//int zloto = 18;
+//double waga = 5.4 ;
+//bool naMape = true;
+//symbol = '%';
+//Console.WriteLine($" Imie (string): {imie} ");
+//Console.WriteLine($" Symbol (char):  {symbol} ");
+//Console.WriteLine($" Poziom (int):  {poziom} ");
+//Console.WriteLine($" Zloto (int):  {zloto}");
+//Console.WriteLine($" Waga (double):  {waga} ");
+//Console.WriteLine($" NaMape (bool):  {naMape} ");

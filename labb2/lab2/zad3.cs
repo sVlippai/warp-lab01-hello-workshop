@@ -1,0 +1,14 @@
+﻿//Console.WriteLine("Dodaj liczbe racji zywnosciowych: ");
+//string text = Console.ReadLine();
+//int liczbaRacji = int.Parse(text);
+//Console.WriteLine("Doday liczbe czlonkow druzyny: ");
+//string text2 = Console.ReadLine();
+// czlonikiDruzyny = int.Parse(text2);
+//Console.WriteLine("Doday liczbe dni wyprawy: ");
+//string text3 = Console.ReadLine();
+//int dni = int.Parse(text3);
+//int pelneRacji = liczbaRacji / czlonikiDruzyny;
+//pozostanie = liczbaRacji % czlonikiDruzyny;
+//double dziennieCala =  liczbaRacji / (double)dni;
+//double dziennieSrednio =  dziennieCala / czlonikiDruzyny;
+//Console.WriteLine($"Pełnych racji otrzyma każdy członek drużyny: {pelneRacji},\nIle racji pozostanie po równym podziale: {pozostanie},\nIle racji dziennie przypadnie na całą drużynę: {dziennieCala:F2},\nIle racji dziennie przypadnie średnio na jedną osobę: {dziennieSrednio:F2}.");
